@@ -23,7 +23,9 @@ Created bash, c, js directories at the root of alx-zero_day
 Created these empty files:
 
 c/c_is_fun.c
+
 js/main.js
+
 js/index.js
 
 Created a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
@@ -40,7 +42,7 @@ Updated bash/alx by replacing echo "ALX" with echo "ALX School"
 
 Updated bash/school by replacing echo "School" with echo "The school is open!"
 
-............................................................................
+............
 Changed branch to main
 
 Updated the file bash/alx by replacing echo "ALX" with echo "ALX School is so cool!"
@@ -57,7 +59,7 @@ Task5.
 
 Merged the branch 'update_script' to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
 
-........................................................................................................................
+..............
 Resolve conflicts by using the version of the branch 'update_script', and pushed the result to the origin.
 
 
