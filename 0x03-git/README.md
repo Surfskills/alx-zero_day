@@ -1,6 +1,6 @@
 Task0.
 
-Setup your Git and GitHub account: Surfskills
+Registered my github: Surfskills
 
 Created first repository: alx-zero_day
 
@@ -8,9 +8,9 @@ Created a Personal Access Token on Github
 
 Opened terminal
 
-Cloned your repository
+Cloned alx-zero_day repository
 
-Created the README.md and push the modifications
+Created the README.md and pushed the modifications
 
 Task 1.
 
@@ -18,7 +18,7 @@ Created a new directory called 0x03-git in your alx-zero_day repo.
 
 Task2.
 
-Created bash, c, js directories at the root of your project: 
+Created bash, c, js directories at the root of alx-zero_day
 
 Created these empty files:
 
@@ -49,7 +49,7 @@ Deleted the directory js
 
 Task4.
 
-Created a new file up_to_date at the root of your directory and in it, wrote the git command line used
+Created a new file up_to_date at the root of the directory and in it, wrote the git command line used
 
 Added 'up_to_date' to git, and committed a message: “How to be up to date in git”), and pushed to the origin
 
