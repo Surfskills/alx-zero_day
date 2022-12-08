@@ -1,9 +1,14 @@
 Task0. 
 Setup your Git and GitHub account: Surfskills
+
 Created first repository: alx-zero_day
+
 Created a Personal Access Token on Github
+
 Opened terminal
+
 Cloned your repository
+
 Created the README.md and push the modifications
 
 Task 1.
